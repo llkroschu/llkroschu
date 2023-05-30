@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 💬 Ask me about AI-VISION Low Cost
+- 🔭 I’m currently working on AI-VISION Low Cost Digi Pro integration
 <!--
 **llkroschu/llkroschu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
